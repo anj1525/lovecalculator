@@ -1,6 +1,6 @@
 body{
     position: relative;
-    margin-top: 170px;
+    margin-top: 100px;
     font-family: cursive;
     text-align: center;
     background-image: url("./06-01.jpg");
@@ -10,7 +10,7 @@ body{
 
 #con {
     width: 800px;
-    height: 500px;
+    height: 600px;
     background-color: #FFEBF0;
     padding: 20px;
     margin: 0 auto;
@@ -27,3 +27,5 @@ body{
     border-radius: 20px;
 
 }
+
+
