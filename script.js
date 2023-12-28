@@ -12,6 +12,9 @@ function calculateLove() {
     
         if (yourName.toLowerCase() === "anjani" && crushName.toLowerCase() === "casey") {
             percentage = 100; 
+        }else if (yourName === "jagdeep" && crushName === "shalini") {
+                percentage = 100;
+         
         } else {
             percentage = Math.floor(Math.random() * 101);
         }
